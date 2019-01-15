@@ -2,7 +2,7 @@
 function searchSubmit(){
 
   //variables for storing api string
-  var url= "https://omgvamp-hearthstone-v1.p.rapidapi.com/cards/search/priest?collectible=1";
+  var url= "https://omgvamp-hearthstone-v1.p.rapidapi.com/cards/search/dark?collectible=1";
 
   fetch(url,{
   headers:{
